@@ -1,0 +1,19 @@
+{
+  "name": "ff",
+  "id": "1311642284305139758",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "parameters": [
+    {
+      "name": "Frame name",
+      "key": "frame",
+      "allowFreeform": true
+    }
+  ]
+}
